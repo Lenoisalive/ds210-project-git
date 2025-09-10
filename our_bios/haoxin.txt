@@ -1,0 +1,4 @@
+major: Chemistry
+Hometown:Guangdong,China
+Funfact:Study Biochemistry this semaster
+
